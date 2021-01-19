@@ -1,0 +1,4 @@
+number;type;chastota;power;temperature;series_number
+1;slesarny;1000;220;100;5
+3;tokarny;1250;480;110;250
+2;slesarny;2500;220;80;100
