@@ -1,7 +1,7 @@
 import csv
 from collections.abc import Iterable
 
-
+#комментарий для Git
 class main_base():
     """Родительский класс для класса child_base"""
 
